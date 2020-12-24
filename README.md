@@ -1,5 +1,5 @@
 # Decision-Tree-Random-Forest-KNN
-Decision Tree ve Random Forest algoritmalarını kullanarak prediction yaptım.K-Nearest Neighbors algoritmasını kullanarak da diagnosis sınıflandırması yaptım
+Decision Tree ve Random Forest algoritmalarını kullanarak prediction modeli geliştirdim.K-Nearest Neighbors algoritmasını kullanarak da diagnosis sınıflandırması yapan model geliştirdim
 
 Decision Tree Reression ve Random Forest Regression modeli ile veri setimiz de bulunan radius_mean sütununda ki değerleri tahmin eden bir model geliştirdim.
 Bu iki modelin başarısına baktığımızda Random Forest modelimiz daha iyi tahminlerde bulunmuştur.
